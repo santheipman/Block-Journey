@@ -9,3 +9,4 @@ Source code for learning blockchain development
 5. [ERC20 extended transfer functions](https://github.com/santheipman/Play-with-ERC20-Transfer)
 6. [NFT basic](https://github.com/santheipman/NFT-basic)
 7. [Simple NFT marketplace contract](https://github.com/santheipman/NFT-Marketplace)
+8. [Interacting with PancakeSwap contracts (locally & testnet)](https://github.com/santheipman/listing-on-pancakeswap)
